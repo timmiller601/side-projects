@@ -1,0 +1,13 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+article {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: 20px solid black;
+  margin: -2px
+  }
